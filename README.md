@@ -8,6 +8,7 @@ It is time to take what I have learned about unsupervised learning and the AWS s
 All work files are loacated in the directory:- ClusteringCrypto
 
 [Crypto Clustering](ClusteringCrypto/crypto_clustering.ipynb)
+
 [Optional Challenge AWS - Crypto Clustering](ClusteringCrypto/crypto_clustering_sm.ipynb)
 
 ## Option 2: Clustering Crypto
@@ -33,20 +34,6 @@ In this assignment, unsupervised learning is used (K-Means Clustering) along wit
 (partial display)
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-
 <table border=\1\ class=\dataframe\>
     <thead>
     <tr style=\text-align: right;\>
